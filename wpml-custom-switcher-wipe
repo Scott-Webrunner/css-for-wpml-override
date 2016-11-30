@@ -1,0 +1,17 @@
+#lang_sel_list ul a.lang_sel_other {
+    font-size: 18px;
+    color: orange;
+    background-color: transparent !important;
+    color: orange !important;
+}
+
+#lang_sel_list a.lang_sel_sel, #lang_sel_list a.lang_sel_sel:visited {
+  font-size: 18px;
+  color: transparent;
+  display: none;
+  background-color: transparent !important;
+}
+
+#lang_sel_list ul {
+  border: none;
+}
